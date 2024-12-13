@@ -10,7 +10,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="flex justify-center items-center gap-3 py-2">
-            <a href=""><img className="w-12 cursor-pointer" src="/icons/github.png" alt="GitHub" /></a>
+            <a href="https://github.com/HammadAkbar1623/Password-Manager.git"><img className="w-12 cursor-pointer" src="/icons/github.png" alt="GitHub" /></a>
             <span>GitHub</span>
           </div>
   
